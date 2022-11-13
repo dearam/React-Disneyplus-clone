@@ -2,7 +2,7 @@
 
 This project is published with the using of vercel. Link is : https://dearam-disneyplus-clone.vercel.app/home
 
-<h3>Sample Outputs</h3>
+<h3>Sample Outputs </h3>
 
 ![Home2](https://user-images.githubusercontent.com/80329368/201518033-76f5d27e-dc03-4666-9fd2-c0be8a1843b3.png)
 
