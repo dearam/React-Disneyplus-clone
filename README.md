@@ -1,7 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is published with the using of vercel. Link is : https://dearam-disneyplus-clone.vercel.app/home
 
+<h3>Sample Outputs</h3>
+
+![Home2](https://user-images.githubusercontent.com/80329368/201518033-76f5d27e-dc03-4666-9fd2-c0be8a1843b3.png)
+
+<img width="947" alt="MainPage" src="https://user-images.githubusercontent.com/80329368/201518048-fa4d2f27-3dec-421e-970d-d1684132e635.png">
 ## Available Scripts
 
 In the project directory, you can run:
